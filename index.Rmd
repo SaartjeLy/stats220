@@ -1,0 +1,59 @@
+---
+title: "Creating images with R"
+subtitle: "with a little bit of magick"
+author: "Saartje"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, error = FALSE, warning = FALSE)
+
+```
+
+
+<p>
+<br />
+</p>
+## My meme
+
+I had a eureka moment thinking of 'Paw-vard'; This meme represents the new heights we can reach when we give love to cats.
+
+
+![](catMeme.png)
+
+<!--adds meme code-->
+```{r file='meme.R', eval=FALSE}
+
+```
+
+
+<p>
+<br />
+</p>
+
+## My animated GIF
+
+The motivation for this composition is the vibe of life I live; to look after your body, be cute, have fun, and live dedicated to knowledge and a growth mindset!
+
+
+![](my_animation.gif)
+<!-- adds animation code -->
+```{r file='animation.R', eval=FALSE}
+
+```
+
+
+<!-- decorate the site-->
+```{css}
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cormorant+Garamond:wght@300&display=swap');
+
+body {
+font-family: 'Cormorant Garamond', serif;
+background-color: #d4e7fa;
+font-weight: bold;
+
+}
+
+```
+
