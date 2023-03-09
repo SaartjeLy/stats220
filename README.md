@@ -16,5 +16,5 @@
 <!---->
 [Project instructions](https://www.stat.auckland.ac.nz/~fergusson/stats220_S123/project1.php)
 <!---->
-[Website where GIF was sourced](https://tenor.com/)
+[Website where font was sourced](https://fonts.google.com/)
 
